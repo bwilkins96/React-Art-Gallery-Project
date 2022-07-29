@@ -1,0 +1,18 @@
+body {
+    background-color: whitesmoke;
+    font-family: Trebuchet MS, sans-serif;
+}
+
+.noTouch {
+    text-align: center;
+    border: 1px solid red;
+    padding: 15px;
+    width: fit-content;
+    margin: auto;
+    background-color: antiquewhite;
+    border-radius: 20px;
+}
+
+.noTouch:hover {
+    font-weight: bold;
+}

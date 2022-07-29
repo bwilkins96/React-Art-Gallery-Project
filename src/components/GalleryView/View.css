@@ -1,0 +1,14 @@
+.artContainer {
+    display: flex;
+    position: relative;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    margin: auto;
+    width: 95vw;
+}
+
+h2 {
+    padding: 15px 0;
+    text-align: center;
+}
